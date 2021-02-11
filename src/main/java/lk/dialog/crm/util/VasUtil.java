@@ -13,7 +13,7 @@ import java.util.List;
 public class VasUtil  {
     
     public static boolean evaluate() {
-        System.out.println("");
+        System.out.println("Master...");
         return true;
     }
     
