@@ -1,7 +1,7 @@
 package lk.dialog.crm.dtv.rules.common;
 
 
-import lk.dialog.crm.util.VasUtil;
+import lk.dialog.crm.util.Util;
 
 
 
