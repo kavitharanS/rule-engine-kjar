@@ -14,7 +14,7 @@ public class Util {
     
     
     public static boolean evaluate() {
-        
+        System.out.println("Branch");
         return true;
     }
     
