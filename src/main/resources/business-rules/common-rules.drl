@@ -1,0 +1,27 @@
+package lk.dialog.crm.dtv.rules.common;
+
+
+import lk.dialog.crm.util.VasUtil;
+
+
+
+    //Helloo
+	//#14
+	rule "Helloo"
+	ruleflow-group "Helloo"
+    no-loop
+    
+	when 
+		
+		eval(VasUtil.evaluate() )
+		
+		
+		
+	then
+	    
+	    System.out.println("Executing Rule name::"+kcontext.getRule().getName());
+        
+        
+	end
+	
+
