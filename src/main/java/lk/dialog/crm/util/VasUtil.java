@@ -12,9 +12,8 @@ import java.util.List;
 
 public class VasUtil  {
     
-    
     public static boolean evaluate() {
-        
+        System.out.println("");
         return true;
     }
     
